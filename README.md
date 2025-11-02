@@ -18,7 +18,7 @@ Tujuan utama dari project ini adalah untuk:
 ## 🛠️ Teknologi yang Digunakan
 - **HTML5** → Struktur dan konten website  
 - **CSS3** → Desain tampilan dan layout responsif  
-- **JavaScript (opsional)** → Menambahkan interaktivitas pada elemen tertentu  
+ 
 
 ---
 

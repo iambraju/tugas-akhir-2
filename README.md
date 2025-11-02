@@ -26,4 +26,4 @@ Tujuan utama dari project ini adalah untuk:
 
 1. **Clone repository** ke komputer lokal:
    ```bash
-   git clone https://github.com/iambraju/tugas-akhir-2.git
+   git clone:  https://iambraju.github.io/tugas-akhir-2/
